@@ -7,3 +7,4 @@ geckodriver
 geckodriver.log
 *.csv
 .vscode/*
+main.py
