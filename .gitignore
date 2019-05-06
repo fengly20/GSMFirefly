@@ -5,5 +5,5 @@ chromedriver
 credentials.json
 geckodriver
 geckodriver.log
-main.py
 *.csv
+.vscode/*
